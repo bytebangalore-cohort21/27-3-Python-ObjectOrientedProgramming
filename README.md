@@ -7,8 +7,7 @@ This Workbook is based on the Corey Schafer Video Series (Playlist) about Python
 
 #### Further Reading Assignments 
 
-**Decorators**
-
+* Decorators
 **General OOPS Concepts Like**
 * Inheritance
 * Polymorphism
